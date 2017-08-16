@@ -26,3 +26,13 @@ python train1.py 100 50 degree/items
 Please note that this repo. is still incomplete, in the sense that experiments cannot be reproduced yet. It has model file and some data pre-processing scripts.
 
 I am planning to update it will fully functional repo, where interested users can reproduce all the experiments.
+
+
+### CITE
+To cite our work, please use the following BibTeX entry:
+@article{gupta2017simultaneous,
+  title={Simultaneous Inference of User Representations and Trust},
+  author={Gupta, Shashank and Parikh, Pulkit and Gupta, Manish and Varma, Vasudeva},
+  journal={arXiv preprint arXiv:1706.00923},
+  year={2017}
+}
